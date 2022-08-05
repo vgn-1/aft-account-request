@@ -11,9 +11,9 @@ module "account_request_01" {
   }
 
   account_tags = {
-    "ABC:Owner"       = "myname@mycompany.com"
+    "ABC:Owner"       = "vgn@amazon.com"
     "ABC:Division"    = "ENT"
-    "ABC:Environment" = "Dev"
+    "ABC:Environment" = "test"
     "ABC:CostCenter"  = "123456"
     "ABC:Vended"      = "true"
     "ABC:DivCode"     = "102"
