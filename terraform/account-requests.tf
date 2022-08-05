@@ -4,7 +4,7 @@ module "account_request_01" {
   control_tower_parameters = {
     AccountEmail              = "vgn+15@amazon.com"
     AccountName               = "vgn-acct15"
-    ManagedOrganizationalUnit = "" 
+    ManagedOrganizationalUnit = "Sandbox" 
     SSOUserEmail              = "vgn@amazon.com"
     SSOUserFirstName          = "vgn-acct15"
     SSOUserLastName           = "user"
